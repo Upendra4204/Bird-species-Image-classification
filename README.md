@@ -72,7 +72,9 @@ Contact
 For questions or feedback, feel free to reach out:
 
 Your Name: [ugummilla@gmail.com]
-GitHub: [https://github.com/Upendra4204] 
+GitHub: [https://github.com/Upendra4204]   
+
+Thanks Namasthey  
 
 
 
